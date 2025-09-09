@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-image: url(https://media.istockphoto.com/id/1393223442/photo/bosnia-and-herzegovina-and-turkey-flag-ripped-paper-grunge-background-abstract-bosnia-and.jpg?s=612x612&w=0&k=20&c=pWMSxGCjLnFBhA19WuoQYx5xbw8rG7wJ9b7nh927JUw=);
+    background-size: cover;
+    background-repeat: no-repeat;
+}     
+
+.anel2 {    
+    width: 250px;
+    height: 200px;
+    position: absolute;
+    left: 200px;
+    top: 125px;
+}
+
+.anel3 {
+    width: 250px;
+    height: 200px;
+    position: absolute;
+    left: 200px;
+    top: 335px;
+}
+
+h1 {
+	color: rgb(252, 0, 0);  
+}  
+p {  
+	color: rgb(255, 0, 0);  
+}
+p {  
+	font-size: 20px;  
+	line-height: 1.6;  
+	color: #ff0000;  
+}
+
+h2 {
+    color: rgb(255, 0, 0);
+}
+h3 {
+    color: rgb(255, 0, 0);
+}
